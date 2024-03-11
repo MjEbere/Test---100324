@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(195, 218, 240);
+    color: rgb(32, 8, 99);
+}
+#para1{
+    color: rgb(9, 207, 131);
+}
+.center{
+    color: crimson;
+}
+#test{
+    text-decoration: underline rgb(235, 8, 8);
+}
